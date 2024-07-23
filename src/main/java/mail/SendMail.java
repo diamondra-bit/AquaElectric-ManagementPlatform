@@ -13,7 +13,7 @@ import javax.mail.internet.MimeMessage;
 public class SendMail {
 	  public static void sendEmail(String recipient) {
 	        String host = "smtp.gmail.com";
-	        final String user = "rasolofojaonadiamondranirina@gmail.com";
+	        final String user = "";
 	        final String password = "zdys wsgf muul iduf";
 
 	        String subject = "Notification de Paiement en Retard";
