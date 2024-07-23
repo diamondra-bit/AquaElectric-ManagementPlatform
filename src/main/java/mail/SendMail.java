@@ -14,7 +14,7 @@ public class SendMail {
 	  public static void sendEmail(String recipient) {
 	        String host = "smtp.gmail.com";
 	        final String user = "";
-	        final String password = "zdys wsgf muul iduf";
+	        final String password = "";
 
 	        String subject = "Notification de Paiement en Retard";
 	        String messageText = "Cher client, \n\nNous vous informons que vous n'avez pas encore payé votre facture. Veuillez le faire dès que possible.\n\nMerci.";
